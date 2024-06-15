@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.skawuma.entity","l":"Course"},{"p":"org.skawuma.entity","l":"Enrollment"},{"p":"org.skawuma.entity","l":"Student"}];updateSearchResults();
